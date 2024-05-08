@@ -4,6 +4,7 @@ dataset/book_with_description.csv
 dataset/data.csv
 dataset/README.txt
 dataset/user_allLang.csv
-w2v 5 clusters.png
-Практика, описание выборки 17.03.docx
+output/w2v 5 clusters.png
 Сравнение методов.xlsx
+output/log_reco_error.txt
+output/classificationReport 5 cluster.docx
